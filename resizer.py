@@ -53,7 +53,7 @@ def resize_image():
 # --- Create Application User Interface (GUI) ---
 root = tk.Tk()
 root.title("Emotes Resizer")
-root.geometry("350x180")
+root.geometry("350x150")
 root.resizable(False, False)
 
 # Main descriptive label
@@ -63,10 +63,5 @@ label.pack()
 # Green action button
 btn_pilih = tk.Button(root, text="Choose PNG Image", command=resize_image, font=("Arial", 10, "bold"), bg="#4CAF50", fg="white", padx=10, pady=5)
 btn_pilih.pack()
-
-# --- 💡 PENAMBAHAN FOOTER DI SINI ---
-# side="bottom" memastikan teks berada di paling bawah, pady=10 memberikan jarak dari tombol di atasnya
-footer = tk.Label(root, text="solanum cartoon craft", font=("Arial", 8), fg="gray")
-footer.pack(side="bottom", pady=10)
 
 root.mainloop()
