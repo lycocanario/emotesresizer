@@ -125,7 +125,7 @@ def show_popup(title, message, is_success=False, target_path=""):
 
         ctk.CTkButton(
             button_frame,
-            text="📂 Open Folder",
+            text="Open Folder",
             width=130,
             fg_color="#3498db",
             hover_color="#2980b9",
