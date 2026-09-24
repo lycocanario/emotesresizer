@@ -1,4 +1,4 @@
-# Tomato Resizer
+# Tomato Resizer (PNG Emotes Resizer)
 
 It's a simple and lightweight tool designed to make resizing Emotes File process faster and easier.
 
