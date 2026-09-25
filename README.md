@@ -8,13 +8,13 @@ Feedback and suggestions are welcome as the project continues to evolve.
 
 ## Features
 
-- **Multiple Size Resizing** — Resize one or multiple PNG images into several custom pixel sizes in a single process.
-- **Custom Pixel Sizes** — Enter the exact image sizes you need, such as `28, 56, 112`.
-- **Batch Processing** — Process multiple PNG files at once instead of resizing each image individually.
-- **Automatic File Naming** — Generate output files with size-based filenames for easier organization.
-- **Flexible Output Folder** — Save resized images to a default `Resized` folder or choose a custom destination.
-- **Multiple File Selection Methods** — Select files through a file picker or drag and drop them directly into the application.
-- **Quick Access to Results** — Open the output folder immediately after the resizing process is complete.
+- **Multiple Size Resizing**: Resize one or multiple PNG images into several custom pixel sizes in a single process.
+- **Custom Pixel Sizes**: Enter the exact image sizes you need, such as `28, 56, 112`.
+- **Batch Processing**: Process multiple PNG files at once instead of resizing each image individually.
+- **Automatic File Naming**: Generate output files with size-based filenames for easier organization.
+- **Flexible Output Folder**: Save resized images to a default `Resized` folder or choose a custom destination.
+- **Multiple File Selection Methods**: Select files through a file picker or drag and drop them directly into the application.
+- **Quick Access to Results**: Open the output folder immediately after the resizing process is complete.
 
 ## Download
 
@@ -24,12 +24,12 @@ Download the latest Windows executable from the GitHub Releases page:
 
 
 ## Installation
+1. Open the Releases page.
+2. Download the latest .zip file.
+3. Extract the downloaded .zip file completely.
+4. Open the extracted folder and double-click TomatoResizer.exe to run it.
 
-1. Open the [Releases](https://github.com/lycocanario/tomatoresizer/releases/latest) page.
-2. Download the latest `.exe` file.
-3. Open the downloaded executable to launch Tomato Resizer.
-
-Tomato Resizer is distributed as a Windows executable.
+Note: Tomato Resizer is a portable application. No installation is required—just extract and run!
 
 
 ## How to Use
