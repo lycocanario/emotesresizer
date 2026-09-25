@@ -29,7 +29,7 @@ Download the latest Windows executable from the GitHub Releases page:
 3. Extract the downloaded .zip file completely.
 4. Open the extracted folder and double-click TomatoResizer.exe to run it.
 
-Note: Tomato Resizer is a portable application. No installation is required—just extract and run!
+Note: Tomato Resizer is a portable application. No installation is required, just extract and run!
 
 
 ## How to Use
